@@ -8,7 +8,7 @@ import {SidebarContainer,
         SideBtnWrap,
         SidebarRoute} from './SidebarElements'
  
-const ScrollLink = Scroll.ScrollLink   
+//const ScrollLink = Scroll.ScrollLink   
 
 const Sidebar = ({isOpen ,toggle}) => {
  
